@@ -1,6 +1,0 @@
-model_checkpoint_path: "model.ckpt-21300"
-all_model_checkpoint_paths: "model.ckpt-20900"
-all_model_checkpoint_paths: "model.ckpt-21000"
-all_model_checkpoint_paths: "model.ckpt-21100"
-all_model_checkpoint_paths: "model.ckpt-21200"
-all_model_checkpoint_paths: "model.ckpt-21300"

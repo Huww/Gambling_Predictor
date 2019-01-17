@@ -64,7 +64,7 @@ def main():
 
     model = tf.estimator.DNNClassifier(
         model_dir='model/',
-        hidden_units=[10],
+        hidden_units=[18],
         feature_columns=feature_columns,
         n_classes=3,
         label_vocabulary=['H', 'D', 'A'],
